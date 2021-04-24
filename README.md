@@ -38,7 +38,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="raongithub's GitHub Stats" src="https://github-readme-stats-raongithub.vercel.app/api?username=raongithub&show_icons=true&hide_border=true" />
+  <img align="left" alt="raongithub's GitHub Stats" src="https://github-readme-stats-raongithub.vercel.app/api?username=raongithub&theme=dark&show_icons=true&hide_border=true" />
 
 </details>
 
