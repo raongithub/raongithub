@@ -30,4 +30,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="raongithub's GitHub Stats" src="https://raongithub.vercel.app/api?username=raongithub&show_icons=true&hide_border=true" />
+
+</details>
+
 [raongithub]: https://raongithub.github.io/my-portfolio
