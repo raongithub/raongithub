@@ -1,4 +1,4 @@
-### Hi there, I'm Ramu - [portfolio] 👋
+### Hi there, I'm Ramu - [raongithub] 👋
 
 ### I'm a software developer who is passionate about making the world a better place and many other things
 
@@ -30,4 +30,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-[portfolio]: https://raongithub.github.io/my-portfolio
+[raongithub]: https://raongithub.github.io/my-portfolio
